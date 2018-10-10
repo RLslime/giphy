@@ -1,0 +1,18 @@
+body{
+	background: url("dis.jpg");
+	background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+.btn {
+    margin: 5px;
+    background-color: #f70202;
+    border-color: #fff;
+}
+.gifDiv{
+    float: left;
+    margin: 3px;
+}
+.jumbotron {
+    text-align: center;
+}
